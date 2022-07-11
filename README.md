@@ -12,7 +12,7 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I
 | :telephone: [pipex](https://github.com/angirov/42pipex) | DONE :heavy_check_mark: | multiprocessing, pipes, system programming, exec(), wati() |
 | :art: [fdf](https://github.com/angirov/42fdf) | DONE :heavy_check_mark: | 3D rendering, Bresenham algorythm, linear transformations (translation, rotation, projections: isometric, parallel) | 
 | :hammer: [minishell](https://github.com/vermillionblue/minishell) | in progress :mechanic: | |
-| :plate_with_cutlery: [Philosopers](https://github.com/angirov/42philosophers) | in progress :mechanic: | Multiprocessing, multithreading, system programming |
+| :plate_with_cutlery: [Philosophers](https://github.com/angirov/42philosophers) | in progress :mechanic: | Multiprocessing, multithreading, system programming |
 | :zombie_man: [C++ ](https://github.com/angirov/42cpp) | in progress :mechanic: | Eight modules that will take us from C to C++ |
 
 My skills:
