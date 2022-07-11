@@ -3,7 +3,7 @@
 
 My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I would like to attract you attention to the projects I am focusing on right now:
 
-| Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Short description <br> (for details check the projects' readmes) |
+| Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Short description <br> (for details check the projects' readmes) |
 | --- | --- | --- |
 | :book: [Libft](https://github.com/angirov/42Libft) | DONE :heavy_check_mark: | Recode some funtions of the standard C library, linked lists, GNU gcc, GNU make |
 | :printer: [ft_printf](https://github.com/angirov/42ft_printf) | DONE :heavy_check_mark: |  Recode recode printf, implement variadic functions |
@@ -11,9 +11,9 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I
 | :8ball: [push_swap](https://github.com/angirov/42push_swap) | DONE :heavy_check_mark: | Algorithms, git submodues |
 | :telephone: [pipex](https://github.com/angirov/42pipex) | DONE :heavy_check_mark: | multiprocessing, pipes, system programming, exec(), wati() |
 | :art: [fdf](https://github.com/angirov/42fdf) | DONE :heavy_check_mark: | 3D rendering, Bresenham algorythm, linear transformations (translation, rotation, projections: isometric, parallel) | 
-| :hammer: [minishell](https://github.com/vermillionblue/minishell) | in progress :mechanic: | |
-| :plate_with_cutlery: [Philosophers](https://github.com/angirov/42philosophers) | in progress :mechanic: | Multiprocessing, multithreading, system programming |
-| :zombie_man: [C++ ](https://github.com/angirov/42cpp) | in progress :mechanic: | Eight modules that will take us from C to C++ |
+| :hammer: [minishell](https://github.com/vermillionblue/minishell) | :mechanic: in progress... | |
+| :plate_with_cutlery: [Philosophers](https://github.com/angirov/42philosophers) | :mechanic: in progress... | Multiprocessing, multithreading, system programming |
+| :zombie_man: [C++ ](https://github.com/angirov/42cpp) | :mechanic: in progress... | Eight modules that will take us from C to C++ |
 
 My skills:
 - C
