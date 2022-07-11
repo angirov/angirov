@@ -4,7 +4,7 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. First I
 
 | Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Short description |
 | --- | --- | --- |
-| :book: [Libft](https://github.com/angirov/42Libft) | DONE :heavy_check_mark: | Recode some funtions of the standard C library, linked lists |
+| :book: [Libft](https://github.com/angirov/42Libft) | DONE :heavy_check_mark: | Recode some funtions of the standard C library, linked lists, GNU gcc, GNU make |
 | :printer: [ft_printf](https://github.com/angirov/42ft_printf) | DONE :heavy_check_mark: |  Recode recode printf, implement variadic functions |
 | :pencil2: [get_next_line](https://github.com/angirov/42get_next_line) | DONE :heavy_check_mark: | A function that returns next line, static variables, file descriptors, open()/close(), read(), memory management (Valgrind etc.) |  
 | :8ball: [push_swap](https://github.com/angirov/42push_swap) | DONE :heavy_check_mark: | |
