@@ -6,7 +6,8 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. First I
 | --- | --- | --- |
 | :book: [Libft](https://github.com/angirov/42Libft) | DONE :heavy_check_mark: | Recode some funtions of the standard C library, linked lists |
 | :printer: [ft_printf](https://github.com/angirov/42ft_printf) | DONE :heavy_check_mark: |  Recode recode printf, implement variadic functions |
-| :pencil2: [get_next_line](https://github.com/angirov/42get_next_line) | DONE :heavy_check_mark: | A function that returns next line, static variables, file descriptors, open()/close(), read(), memory management (Valgrind etc.) |   
+| :pencil2: [get_next_line](https://github.com/angirov/42get_next_line) | DONE :heavy_check_mark: | A function that returns next line, static variables, file descriptors, open()/close(), read(), memory management (Valgrind etc.) |  
+| :dice: [push_swap](https://github.com/angirov/42push_swap) | DONE :heavy_check_mark: | |
 | :telephone: [pipex](https://github.com/angirov/42pipex) | DONE :heavy_check_mark: | multiprocessing, pipes, system programming, exec(), wati() |
 | :art: [fdf](https://github.com/angirov/42fdf) | DONE :heavy_check_mark: | 3D rendering, Bresenham algorythm, linear transformations (translation, rotation, projections) (isometric, parallel) | 
 
