@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![image](https://user-images.githubusercontent.com/19487247/178320963-cbb8f011-800f-4ca5-8962-53a5d2d856d3.png)
 
-My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I would like to attract you attention to the projects I am focusing right now:
+My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I would like to attract you attention to the projects I am focusing on right now:
 
 | Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Short description <br> (for details check the projects' readmes) |
 | --- | --- | --- |
@@ -13,7 +13,7 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I
 | :art: [fdf](https://github.com/angirov/42fdf) | DONE :heavy_check_mark: | 3D rendering, Bresenham algorythm, linear transformations (translation, rotation, projections: isometric, parallel) | 
 | :hammer: [minishell](https://github.com/vermillionblue/minishell) | in progress :mechanic: | |
 | :plate_with_cutlery: [Philosopers](https://github.com/angirov/42philosophers) | in progress :mechanic: | Multiprocessing, multithreading, system programming |
-| :zombie_man: [C++ ](https://github.com/angirov/42cpp) | in progress :mechanic: | Eight modules that take us from C to C++ |
+| :zombie_man: [C++ ](https://github.com/angirov/42cpp) | in progress :mechanic: | Eight modules that will take us from C to C++ |
 
 My skills:
 - C
