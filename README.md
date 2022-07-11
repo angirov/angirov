@@ -3,7 +3,7 @@
 
 My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I would like to attract you attention to the projects I am focusing right now:
 
-| Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Short description |
+| Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Short description (for details go to projects' readmes) |
 | --- | --- | --- |
 | :book: [Libft](https://github.com/angirov/42Libft) | DONE :heavy_check_mark: | Recode some funtions of the standard C library, linked lists, GNU gcc, GNU make |
 | :printer: [ft_printf](https://github.com/angirov/42ft_printf) | DONE :heavy_check_mark: |  Recode recode printf, implement variadic functions |
@@ -13,7 +13,7 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I
 | :art: [fdf](https://github.com/angirov/42fdf) | DONE :heavy_check_mark: | 3D rendering, Bresenham algorythm, linear transformations (translation, rotation, projections: isometric, parallel) | 
 | :hammer: [minishell](https://github.com/vermillionblue/minishell) | in progress :mechanic: | |
 | :plate_with_cutlery: [Philosopers](https://github.com/angirov/42philosophers) | in progress :mechanic: | Multiprocessing, multithreading, system programming |
-| :zombie_man: [C++ ](https://github.com/angirov/42cpp) | in progress :mechanic: | Eight modules that take up from C to C++ |
+| :zombie_man: [C++ ](https://github.com/angirov/42cpp) | in progress :mechanic: | Eight modules that take us from C to C++ |
 
 My skills:
 - C
