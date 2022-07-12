@@ -20,7 +20,7 @@ My skills:
 - C++
 - Unix
 - git
-- python for data analysis (numpy, matplotlib, pandas)
+- Python for Data Analysis (numpy, matplotlib, pandas)
 - R
 
 <!--
