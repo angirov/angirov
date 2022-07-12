@@ -8,10 +8,10 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I
 | :book: [Libft](https://github.com/angirov/42Libft) | DONE :heavy_check_mark: | Recode some funtions of the standard C library, linked lists, GNU gcc, GNU make |
 | :printer: [ft_printf](https://github.com/angirov/42ft_printf) | DONE :heavy_check_mark: |  Recode recode printf, implement variadic functions |
 | :pencil2: [get_next_line](https://github.com/angirov/42get_next_line) | DONE :heavy_check_mark: | A function that returns next line, static variables, file descriptors, open()/close(), read(), memory management (Valgrind etc.) |  
-| :8ball: [push_swap](https://github.com/angirov/42push_swap) | DONE :heavy_check_mark: | Algorithms, git submodues |
-| :telephone: [pipex](https://github.com/angirov/42pipex) | DONE :heavy_check_mark: | multiprocessing, pipes, system programming, exec(), wati() |
+| :8ball: [push_swap](https://github.com/angirov/42push_swap) | DONE :heavy_check_mark: | This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. Algorithms, git submodues |
+| :telephone: [pipex](https://github.com/angirov/42pipex) | DONE :heavy_check_mark: | Program that imitates the pipe operator `\|` of the UNIX shell. `$> ./pipex infile "grep a1" "wc -w" outfile` should behave like this shell command: `$> < infile grep a1 \| wc -w > outfile` Multiprocessing, redirections, pipes, system programming, exec(), wati() |
 | :art: [fdf](https://github.com/angirov/42fdf) | DONE :heavy_check_mark: | In this project we learn computer graphics from scratch. A symple map has to be rendered into an interactive 3D ojbect that is rendered on the flat screen. <br> 3D rendering, Bresenham algorythm, linear transformations (scaling, translation, rotation, projections: isometric, parallel) | 
-| :hammer: [minishell](https://github.com/vermillionblue/minishell) | :mechanic: in progress... | |
+| :hammer: [minishell](https://github.com/vermillionblue/minishell) | :mechanic: in progress... | Create a simple shell (command line interpreter) that can execute commands from the `$PATH`, has several builtins (e.g. `cd`, `pwd`, `echo`), can also pipe them and implements logical operators `\|\|` and `&&`. <br> System programming, lexical analysis, parsing, redirection, here-docs, readline() |
 | :plate_with_cutlery: [Philosophers](https://github.com/angirov/42philosophers) | :mechanic: in progress... | Multiprocessing, multithreading, system programming |
 | :zombie_man: [C++ ](https://github.com/angirov/42cpp) | :mechanic: in progress... | Eight modules that will take us from C to C++ |
 
