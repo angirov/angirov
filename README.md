@@ -15,6 +15,7 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I
 | :plate_with_cutlery: [Philosophers](https://github.com/angirov/42philosophers) | :mechanic: in progress... | Multiprocessing, multithreading, system programming |
 | :zombie_man: [C++ ](https://github.com/angirov/42cpp) | :mechanic: in progress... | Eight modules that will take us from C to C++ |
 
+
 My skills:
 - C
 - C++
@@ -23,6 +24,11 @@ My skills:
 - Python for Data Analysis (numpy, matplotlib, pandas)
 - R
 
+<!--
+<details>
+  <summary> My skills </summary>
+</details>
+-->
 <!--
 **angirov/angirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
