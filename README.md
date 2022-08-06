@@ -34,6 +34,18 @@ My skills:
 
 Here are some ideas to get you started:
 
+what i want to build:
+- regex engine 
+  - https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
+  - https://swtch.com/~rsc/regexp/regexp1.html
+- shell
+  - https://brennan.io/2015/01/16/write-a-shell-in-c/
+  - https://github.com/kamalmarhubi/shell-workshop
+  - https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/
+  - https://github.com/tokenrove/build-your-own-shell
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
