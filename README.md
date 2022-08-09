@@ -1,5 +1,4 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/19487247/178320963-cbb8f011-800f-4ca5-8962-53a5d2d856d3.png)
 
 My name is Vladimir Angirov. I study sofware development at 42Wolfsburg. Today I would like to attract you attention to the projects I am focusing on right now:
 
