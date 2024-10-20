@@ -43,6 +43,13 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg.
 - libasm
 
 
+<!--
+<details>
+  <summary> My skills </summary>
+</details>
+-->
+<!--
+
 # My skills:
 - C
 - C++
@@ -50,16 +57,6 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg.
 - git
 - Python for Data Analysis (numpy, matplotlib, pandas)
 - R
-
-<!--
-<details>
-  <summary> My skills </summary>
-</details>
--->
-<!--
-**angirov/angirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 what i want to build:
 - regex engine 
