@@ -8,7 +8,7 @@ My name is Vladimir Angirov. I study sofware development at 42Wolfsburg.
 
 15 projects submitted, 5 exams passed
 <details>
-  <summary>Project overview</summary>
+  <summary>Project overview: [ press to unfold ]</summary>
 
 | Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Short description <br> (for details check the projects' readmes) |
 | --- | --- |
